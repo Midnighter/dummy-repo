@@ -1,0 +1,2 @@
+include versioneer.py
+include src/dummy_repo/_version.py
