@@ -18,6 +18,10 @@ Dummy Repo
    :target: https://travis-ci.org/Midnighter/dummy-repo
    :alt: Travis CI
 
+.. image:: https://ci.appveyor.com/api/projects/status/github/Midnighter/dummy-repo?branch=master&svg=true
+   :target: https://ci.appveyor.com/project/Midnighter/dummy-repo
+   :alt: AppVeyor
+
 .. image:: https://codecov.io/gh/Midnighter/dummy-repo/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/Midnighter/dummy-repo
    :alt: Codecov
